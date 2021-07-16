@@ -1,0 +1,21 @@
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (1, 'Job', 2, 3, 4);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (2, 'Temp', 1, 2, 4);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (3, 'Transcof', 1, 6, 2);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (4, 'Alpha', 2, 2, 3);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (5, 'Bamity', 2, 1, 4);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (6, 'Keylex', 1, 13, 3);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (7, 'Konklux', 1, 12, 3);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (8, 'Subin', 2, 18, 3);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (9, 'Voltsillam', 1, 6, 5);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (10, 'Alphazap', 1, 18, 3);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (11, 'Veribet', 2, 14, 3);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (12, 'Subin', 2, 1, 1);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (13, 'Quo Lux', 1, 19, 3);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (14, 'Flowdesk', 1, 9, 2);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (15, 'Regrant', 1, 7, 1);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (16, 'Y-find', 1, 8, 2);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (17, 'Span', 1, 11, 1);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (18, 'Wrapsafe', 2, 13, 2);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (19, 'Mat Lam Tam', 2, 14, 4);
+insert into campaign (campaign_id, name, funding_id, ad_account_id, objective_id) values (20, 'Rank', 1, 13, 1);
+

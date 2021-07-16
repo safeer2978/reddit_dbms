@@ -1,0 +1,29 @@
+Account-(primary 40)
+User-(account_id 1-20)
+Advertisment(account_id 12-40)
+
+community(primary 10)
+follows(50, (user_id,community_id has to be unique )community_id(1-10), userid_1-20, increase count, check duplicates followers)
+moderator(community_id(1-10),user_id not null atleast one per community)
+about_section_entry(comunitiy_id 1-10 community_id to be unique)
+
+
+contributions(90)
+posts(30) (1-30)
+comments(60) (contribution ids 31-60, be careful with order of points to, pointing comment has to be from same post, can be null 50% times, )
+
+votes(400, (user_id, contribution_id has to be unique together [ALTER TABLE MyTable ADD UNIQUE KEY `my_unique_key` (`city`, `state`);])
+save(400, user_id, contribution_id has to be unique together [ALTER TABLE MyTable ADD UNIQUE KEY `my_unique_key` (`city`, `state`);])
+
+posts_can_have_tags(post_id 1-30, atleast more than 30 entries, [post_id,tag_id])
+
+report(contribution_id can be 1-90, 20entries only, {user_id,contribution_id} has to be unique)
+
+
+award_transaction(increase count, user_id not null in range of 20,in range 90, (user_id,contribution,award))
+
+
+campaign(ad_account_id 21-40)
+
+get rid of Promotes!!!
+schema change of AD to AD post(refer page 10 on drawio)

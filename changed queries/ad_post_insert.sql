@@ -1,0 +1,10 @@
+insert into ad_post (ad_id, title, link, name) values (1, 'Little Nicky', 'https://dmoz.org/semper/est/quam.png?platea=eu&dictumst=felis&aliquam=fusce&augue=posuere&quam=felis', 'Subin');
+insert into ad_post (ad_id, title, link, name) values (2, 'My Man Godfrey', 'https://dmoz.org/semper/est/quam.png?platea=eu&dictumst=felis&aliquam=fusce&augue=posuere&quam=felis', 'Ronstring');
+insert into ad_post (ad_id, title, link, name) values (3, 'White Dog', 'https://dmoz.org/semper/est/quam.png?platea=eu&dictumst=felis&aliquam=fusce&augue=posuere&quam=felis', 'Daltfresh');
+insert into ad_post (ad_id, title, link, name) values (4, 'White House Down', 'https://dmoz.org/semper/est/quam.png?platea=eu&dictumst=felis&aliquam=fusce&augue=posuere&quam=felis', 'Voyatouch');
+insert into ad_post (ad_id, title, link, name) values (5, 'Ginger & Rosa', 'https://dmoz.org/semper/est/quam.png?platea=eu&dictumst=felis&aliquam=fusce&augue=posuere&quam=felis', 'Treeflex');
+insert into ad_post (ad_id, title, link, name) values (6, 'Lie, The', 'https://dmoz.org/semper/est/quam.png?platea=eu&dictumst=felis&aliquam=fusce&augue=posuere&quam=felis', 'Opela');
+insert into ad_post (ad_id, title, link, name) values (7, 'Ginger', 'https://dmoz.org/semper/est/quam.png?platea=eu&dictumst=felis&aliquam=fusce&augue=posuere&quam=felis', 'Otcom');
+insert into ad_post (ad_id, title, link, name) values (8, 'Rosa','https://dmoz.org/semper/est/quam.png?platea=eu&dictumst=felis&aliquam=fusce&augue=posuere&quam=felis', 'Vagram');
+insert into ad_post (ad_id, title, link, name) values (9, 'Defiance', 'https://dmoz.org/semper/est/quam.png?platea=eu&dictumst=felis&aliquam=fusce&augue=posuere&quam=felis', 'Stim');
+insert into ad_post (ad_id, title, link, name) values (10, 'Trancers III', 'https://ihg.com/velit/vivamus.xml?curabitur=in&gravida=est&nisi=risus&at=auctor&nibh=sed&in=tristique&hac=in&habitasse=tempus&platea=sit&dictumst=amet', 'Bitwolf');

@@ -1,0 +1,15 @@
+insert into moderator (moderator_id, user_id, community_id) values (1, 19, 7);
+insert into moderator (moderator_id, user_id, community_id) values (2, 17, 10);
+insert into moderator (moderator_id, user_id, community_id) values (3, 20, 9);
+insert into moderator (moderator_id, user_id, community_id) values (4, 11, 5);
+insert into moderator (moderator_id, user_id, community_id) values (5, 3, 5);
+insert into moderator (moderator_id, user_id, community_id) values (6, 4, 1);
+insert into moderator (moderator_id, user_id, community_id) values (7, 14, 6);
+insert into moderator (moderator_id, user_id, community_id) values (8, 7, 6);
+insert into moderator (moderator_id, user_id, community_id) values (9, 19, 8);
+insert into moderator (moderator_id, user_id, community_id) values (10, 14, 4);
+insert into moderator (moderator_id, user_id, community_id) values (11, 5, 3);
+insert into moderator (moderator_id, user_id, community_id) values (12, 14, 1);
+insert into moderator (moderator_id, user_id, community_id) values (13, 2, 8);
+insert into moderator (moderator_id, user_id, community_id) values (14, 14, 7);
+insert into moderator (moderator_id, user_id, community_id) values (15, 19, 2);
